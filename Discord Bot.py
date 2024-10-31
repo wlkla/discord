@@ -263,4 +263,4 @@ async def pic2url(interaction: discord.Interaction):
     )
 
 
-client.run('MTI5OTc0MzQ5NzA4NzA5MDc2OQ.GVHv9f.G6iL51A-nUBbRG91XRB5yrbq11Fo-dd8oSozo0')
+client.run('YOUR_KEY')
